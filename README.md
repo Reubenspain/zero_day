@@ -1,0 +1,1 @@
+A Markdown editor is an intuitive and lightweight text-to-HTML conversion tool for web content writers. You can use it to format lists, headers, and for emphasis, as well as to incorporate links and images.
